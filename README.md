@@ -38,7 +38,7 @@ audio-agent/
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/audio-agent.git
+git clone https://github.com/quecolf/Desafio-Python-Whisper---DIO.git
 cd audio-agent
 
 Instale os itens em requirements.txt
