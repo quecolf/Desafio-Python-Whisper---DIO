@@ -1,0 +1,5 @@
+Instalador OpenAi API:
+!pip install openai
+
+Instalador Whisper:
+!pip install git+https://github.com/openai/whisper.git -q
